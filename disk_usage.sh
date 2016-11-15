@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Some comments
 k=1
 
 i=5
