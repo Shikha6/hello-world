@@ -1,6 +1,6 @@
 #!/bin/bash
 # Some comments
-k=1
+j=1
 
 i=5
 
